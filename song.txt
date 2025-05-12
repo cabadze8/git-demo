@@ -5,3 +5,10 @@ onthis their chosen battle field
 
 from the lines
 shields by shields
+<<<<<<< HEAD
+=======
+
+
+some contenttt
+and here!!!1234
+>>>>>>> 2ab3416 (new couplet and more)
